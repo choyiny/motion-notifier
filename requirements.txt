@@ -1,0 +1,6 @@
+flask
+opencv-python
+Flask-SQLAlchemy
+psycopg2-binary
+flask-socketio
+eventlet
